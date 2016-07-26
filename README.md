@@ -1,0 +1,2 @@
+# functional_javascript_workshop
+Learning Functional Javascript using CodeSchool workshop
